@@ -1,0 +1,3 @@
+[submodule "UnityClient/Assets/UnityFramework"]
+	path = UnityClient/Assets/UnityFramework
+	url = git@github.com:wp-2015/UnityFramework.git
