@@ -7,3 +7,6 @@
 [submodule "UnityClient/CustomBuildPipeline"]
 	path = UnityClient/CustomBuildPipeline
 	url = git@github.com:wp-2015/CustomBuildPipeline.git
+[submodule "Common"]
+	path = Common
+	url = git@github.com:wp-2015/ClientAndServerCommon.git
